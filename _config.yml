@@ -1,1 +1,2 @@
-eadasd
+plugins:
+  - jekyll-redirect-from
