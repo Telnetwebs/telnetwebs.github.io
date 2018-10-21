@@ -1,1 +1,4 @@
+plugins:
+  - jekyll-redirect-from
+
 permalink: /index.html
